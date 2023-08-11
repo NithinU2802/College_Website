@@ -2,23 +2,23 @@
 
   Note: As the Above data's are confidential so I could not upload any picture in this repository...!
   
-  To Run the project: 
+    To Run the project: 
               - New to Open two Terminal and integrate to this path.
               - As the data need to upload on database use XAMPP/WAMP.
               - Here I use XAMPP to run the local server.
               - Now in 1st terminal run " npm run dev ".
               - Then in 2nd terminal run "php artisan serve ".
-   These steps are required to run this project....!
+    These steps are required to run this project....!
 
-     We form a Team to create an college website which is more reliable to use and get direct interaction with admin
-     Further, We planned to make different logins 
+     We form a Team to create an college website which is more reliable to use and get direct interaction
+     with admin Further, We planned to make different logins 
              Our Admin Panel Consist of 
                         - Main Admin.
                         - HOD Admin.
                         - Staff Admin.
                         - Consumer View.
-     These are the views we planned and implemented for our website to deliver an easy update as a card which make 
-     Every Co-ordinaters and HOD/Staff in the college can access and release updates easily...
+     These are the views we planned and implemented for our website to deliver an easy update as a card 
+     which make Every Co-ordinaters and HOD/Staff in the college can access and release updates easily.
      
 # Output 
 
